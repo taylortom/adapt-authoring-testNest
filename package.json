@@ -1,8 +1,5 @@
 {
   "name": "adapt-authoring-testNest",
   "version": "0.0.1",
-  "main": "index.js",
-  "dependencies": {
-    "adapt-authoring-testNest": "github:adapt-security/adapt-authoring-testNest.git"
-  }
+  "main": "index.js"
 }
